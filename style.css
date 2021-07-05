@@ -48,5 +48,35 @@ margin-top: 130px;}
         color: darkred;}
         #recipi h1{text-align: center;    margin-top: 50px;}
         #recipi-p{text-align: center;color: gray;}
+        
+        #recipi-list-sec{display: flex;}
 
+        .recipi-list-div{    width: 30%;
+            padding: 20px;
+            box-shadow: 5px 5px 50px #808080b3;
+            margin: 39px;
+            border-radius: 45px}
 
+        .recipi-list-div img {width: 100%;}
+        .recipi-list-div h1 {    font-size: xx-large;
+            margin-left: 60px;
+            padding-top: 4px;}
+
+        .recipi-details {    font-size: 20px;
+            padding: 42px;}
+
+#social-sec {display: flex;
+box-shadow:5px 5px 50px #808080b3; 
+margin: 100px 50px;    border-radius: 25px;}
+
+.social-div {padding: 30px 160px;}
+
+.social-div h1{font-size: xx-large;}
+
+#close-div{background-color: black;
+height: 300px;}
+
+#close-div h1 {color: gray;    text-align: center;
+    padding: 23px;}
+#close-div h1 span { color: orange;}
+#close-p {color: whitesmoke;text-align: center;}
