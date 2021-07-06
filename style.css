@@ -81,7 +81,7 @@ margin: 100px 50px;    border-radius: 25px;}
     float: left;
     box-shadow: 5px 5px 50px #808080b3;
     padding: 72px;
-    height: 700px;
+    height: 600px;
     }
     .pizza-div1 img{    height: 400px;
         width: 500px;
@@ -97,6 +97,7 @@ padding-top: 30px;}
     padding: 23px;}
 #close-div h1 span { color: orange;}
 #close-p {color: rgb(20, 10, 10);text-align: center;}
+
 
 
 
